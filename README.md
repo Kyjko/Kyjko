@@ -1,4 +1,4 @@
-- Interested in: C/C++, Assembly, GPU computing, binary exploitation
+- Interested in: C/C++, Assembly, GPU computing, data visualization, binary exploitation
 
 <!---
 Kyjko/Kyjko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
