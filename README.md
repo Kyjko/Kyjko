@@ -1,5 +1,15 @@
-ㅇ Interested in: ✨C/C++✨, Assembly, GPU computing, data visualization, binary exploitation
-<!---
-Kyjko/Kyjko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I'm interested in:
+* ✨C/C++✨ 
+* Assembly 
+* GPU computing 
+* data visualization 
+* binary exploitation
+
+```c
+#include <stdio.h>
+
+int main(void) {
+  int* p = 0xDEADBEEF;
+  printf("%d", *p);
+}
+```
