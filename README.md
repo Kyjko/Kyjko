@@ -1,5 +1,5 @@
 ### What I'm interested in:
-* ✨C/C++✨ 
+* ✨C/C++/Java✨ 
 * Assembly 
 * GPU computing 
 * data visualization 
