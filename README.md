@@ -2,7 +2,7 @@
 * ✨C/C++/Java✨ 
 * Assembly 
 * GPU computing 
-* data visualization 
+* R/SAS 
 * binary exploitation
 
 ```c
