@@ -4,7 +4,7 @@
 * GPU computing 
 * R/SAS 
 * binary exploitation
-
+* TeX
 ```c
 #include <stdio.h>
 
